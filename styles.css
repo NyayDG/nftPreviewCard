@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(13, 26, 45);
+    color: white;
+    font-family: 'Outfit', sans-serif;
+}
+
+hr {
+    border-color: rgb(47, 65, 89);
+    border-top: none;
+}
+
+/* MAIN PAGE */
+.mainPageDiv {
+        background-color: rgb(21, 39, 63);
+        width: 20%;
+        margin: auto;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        border-radius: 8px;
+}
+
+.mainPageDivImage {
+    width: 95%;
+    margin: auto;
+    padding-left: 5px;
+    border-radius: 8px;
+}
+
+.faintColorText {
+    font-weight: 300;
+    color: rgb(137, 160, 192);
+}
+
+
+.InsidemainPageDiv {
+    padding: 20px;
+    margin: auto;
+}
+
+.mainPageDivForNum {
+    display: flex;
+    justify-content: space-between;
+}
+
+.avatarImage {
+    width: 30px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 100%;
+}
+
+.mainPageTableText {
+    padding-left: 10px;
+    font-weight: 300;
+}
