@@ -53,3 +53,10 @@ hr {
     padding-left: 10px;
     font-weight: 300;
 }
+
+/* MEDIA QUERY */
+@media (max-width: 480px) {
+    .mainPageDiv {
+        width: 80%;
+}
+}
